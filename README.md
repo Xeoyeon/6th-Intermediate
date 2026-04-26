@@ -29,4 +29,4 @@ The following table summarizes the weekly topics covered during the session. Det
 | **Week 15** | Convolutional Neural Networks (CNN) | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/Week15) |
 | **Week 16** | Intro to Natural Language Processing (NLP) | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/Week16) |
 
-> **Note:** Each branch contains markdown files summarizing the core concepts and Python implementations discussed in the lectures.
+> **Note:** Each branch contains files summarizing the core concepts discussed in the lectures.
