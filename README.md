@@ -16,17 +16,17 @@ The following table summarizes the weekly topics covered during the session. Det
 
 | Week | Topic | Branch Link |
 | :--- | :--- | :--- |
-| **Week 1** | [cite_start]Intro to Deep Learning & Logistic Regression | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week1) |
-| **Week 2** | [cite_start]Computation Graphs & Vectorization | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week2) |
-| **Week 3** | [cite_start]Python Broadcasting & Shallow Neural Networks | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week3) |
-| **Week 4** | [cite_start]Activation Functions & Random Initialization | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week4) |
-| **Week 5** | [cite_start]Deep Neural Networks (DNN) | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week5) |
-| **Week 6** | [cite_start]ML Application Setup & Regularization  | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week6) |
-| **Week 9** | [cite_start]Optimization Problem Setup  | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week9) |
-| **Week 10** | [cite_start]Optimization Algorithms  | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week10) |
-| **Week 11** | [cite_start]Hyperparameter Tuning & Batch Normalization | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week11) |
-| **Week 12** | [cite_start]Multi-class Classification & Programming Frameworks| [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week12) |
-| **Week 15** | [cite_start]Convolutional Neural Networks (CNN) | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week15) |
-| **Week 16** | [cite_start]Intro to Natural Language Processing (NLP) | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week16) |
+| **Week 1** | Intro to Deep Learning & Logistic Regression | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week1) |
+| **Week 2** | Computation Graphs & Vectorization | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week2) |
+| **Week 3** | Python Broadcasting & Shallow Neural Networks | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week3) |
+| **Week 4** | Activation Functions & Random Initialization | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week4) |
+| **Week 5** | Deep Neural Networks (DNN) | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week5) |
+| **Week 6** | ML Application Setup & Regularization  | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week6) |
+| **Week 9** | Optimization Problem Setup  | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week9) |
+| **Week 10** | Optimization Algorithms  | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week10) |
+| **Week 11** | Hyperparameter Tuning & Batch Normalization | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week11) |
+| **Week 12** | Multi-class Classification & Programming Frameworks| [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week12) |
+| **Week 15** | Convolutional Neural Networks (CNN) | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week15) |
+| **Week 16** | Intro to Natural Language Processing (NLP) | [View Branch](https://github.com/Xeoyeon/6th-Intermediate/tree/week16) |
 
 > **Note:** Each branch contains markdown files summarizing the core concepts and Python implementations discussed in the lectures.
